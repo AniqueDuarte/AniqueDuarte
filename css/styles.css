@@ -1,12 +1,12 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200&family=Smooch+Sans:wght@300;400;500&display=swap');
 
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'raleway', sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -14,15 +14,17 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #DDBCE0;
+	color: white
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #FFFFFF;
+	color: darkblue 
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #E0AE82;
 }
 
 /* Styles for lists in the document */
